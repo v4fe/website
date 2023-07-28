@@ -1,4 +1,4 @@
-# MkDocs Quickstart
+# Valentin Ferati
 > Starter template for a MkDocs docs site on GH Pages - including CI
 
 [![CI status](https://github.com/MichaelCurrin/mkdocs-quickstart/workflows/Deploy%20Docs/badge.svg)](https://github.com/MichaelCurrin/mkdocs-quickstart/actions)
