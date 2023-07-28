@@ -1,0 +1,96 @@
+# Resume
+
+> I'm a Product Manager based in Munich ****with 2 years of experience in the software industry. 
+
+My focus area for the past few years has been strategy development, but I'm also skilled vision development and customer understanding.
+> 
+
+# ☎️ Contact information
+
+---
+
+📧 Email address: valentinvferati@gmail.com
+
+🔗 LinkedIn: [https://www.linkedin.com/in/valentin-ferati/](https://www.linkedin.com/in/valentin-ferati/)
+
+# **👩🏻‍💻** Work experience
+
+---
+
+## **Product Manager at Soley**
+
+Munich, DE – (Jun 2021 - Present)
+
+Conducting user interviews, prioritizing and documenting features in the roadmap, creating mocks and feature documentation, providing support to Customer Success and Marketing teams.
+
+## Product Manager (working student) at Soley
+
+Munich, DE — (June 2021 - March 2023)
+
+## Key Entry / Export Analyst at UPS
+
+Heimstetten, Munich, DE — (October 2016 - June 2021)
+
+Processing of international shipments, data entry of export information on the PC, recording and checking of customs documents, checking of export documentation.
+
+## Self-employed at Art Market
+
+Fushe Kosove, Kosovo — (October 2011 - June 2015)
+
+Managing the supermarket by my own, procurement, merchandising, maintaining relationships with customers, managing the budget.
+
+# 🎓 Education
+
+---
+
+## **B.Sc. Information Systems at TUM**
+
+Munich, DE (October 2019 - October 2023)
+
+## W-Kurs at Studienkolleg
+
+Munich, DE (March 2017 - July 2017)
+
+## B.Sc. Banking and Finance at University of Prishtina
+
+Prishtina, Kosovo (October 2011 - July 2013)
+
+## High School Graduate at Mehmet Akif College
+
+Lipjan, Kosovo (September 2008 - June 2011)
+
+# 🛠 Skills
+
+---
+
+## 💻 Technology
+
+### Figma ⭐️⭐️⭐️⭐️
+
+My "native" programming language, I've worked with it for over 6 years. I've used it in the front-end with React and Redux, in the back-end for APIs with Node, Express and Hapi.js and for testing automation using Mocha and later on, Jest.
+
+### Java Programming ⭐️⭐️
+
+I've started learning it recently and found it challenging (in a good way!) I'm not proficient yet but I've worked on some features and fixes on my own.
+
+### Technical writing ⭐️⭐️⭐️⭐️
+
+I enjoy writing about technical subjects and I feel I can do a pretty good job about it! My motivation is explaining things in simple and practical terms and thus making things easier for others.
+
+## 🗣 Languages
+
+### Albanian 🇦🇱
+
+Native speaker 
+
+### German 🇩🇪
+
+Proficient speaker 
+
+### English 🇺🇸
+
+Proficient speaker 
+
+### Italian 🇮🇹
+
+Elementary proficiency
